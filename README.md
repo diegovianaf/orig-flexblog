@@ -1,6 +1,6 @@
 # ⏹ Flexblog
 
-This project was developed during the **CSS Flexbox Course** at [Origamid](https://www.origamid.com/curso/javascript-completo-es6/).
+This project was developed during the **CSS Flexbox Course** at [Origamid](https://www.origamid.com/curso/css-flexbox/).
 
 ## 🔻 Technologies
 - HTML
